@@ -1,0 +1,55 @@
+O projeto JACKPOT na verdade é um pequeno jogo para saber se você conseguiu três cartas iguais e, assim, ganhou a bonificação no jogo de APOSTA.
+
+-> O QUE É ESSE JOGO?
+- O jogo que, no fim, atinge o JACKPOT na verdade vem de caças níqueis do japão, que são jogos de azar. Um *personagem* no mundo de JUJUTSU KAISEN (uma obra japonesa de MANGÁ) tem uma *expansão de domínio* (habilidade do personagem) que é baseada no jogo de caça-níquel onde você precisa roletar três imagens iguais para ganhar a grana que, no caso dele, é mais poder.
+
+O sistema desse jogo, nos moldes de PYTHON que estou apresentando, vem de um RPG de mesa que adaptou o JACKPOT para algo mais crível pros sistemas do RPG. A explicação inicial sobre o funcionamento dela é a seguinte:
+
+-> EXPLICAÇÃO (DENTRO DO RPG):
+
+Nos 4 minutos e 11 segundos após o Jackpot, o feiticeiro torna-se imortal, além de recuperar sua energia amaldiçoada durante a rodada, não sofrendo efeitos de exaustão, sendo capaz de expandir seu domínio quantas vezes quiser. Inicialmente, todas as informações acerca do funcionamento desta expansão são compartilhadas para seus alvos. Tem como objetivo principal, ganhar um Jackpot, e assim, ganhar uma recompensa, para isto, é preciso que o usuário crie eventos utilizando habilidades prévias que possuem cores específicas para determinar a probabilidade de sucesso do evento. ||Música tocada durante do prêmio de Energia Amaldiçoada Infinita: https://youtu.be/MUWxHnEaBT8 ||
+
+A expansão possui uma sequência de ações para que o usuário consiga um Jackpot após o fim de sua rodada de 4:11 minutos. Embora possa repetir um Jackpot quantas vezes for preciso, só é possível utilizar a Mudança de Probabilidade uma única vez, sendo assim, após sua próxima rodada, terá que retornar ao estágio de Economia de Tempo, até que consiga outro Jackpot.
+
+**ECONOMIA DE TEMPO** ━ Tentativas de probabilidades para conseguir um Evento e posteriormente um Jackpot
+
+**RODADA** ━ Durante 4:11 minutos, ao tocar da trilha sonora, o usuário recebe Energia Amaldiçoada Infinita
+
+**MUDANÇA**                 
+      **DE**                      ━ Após a rodada, o usuário é capaz de mudar as probabilidades de si mesmo, podendo  
+**PROBABILIDADE**            recupera-se de ferimentos e danos mortais
+     
+**JACKPOT**   ━ Quando o usuário consegue 3 personagens iguais a partir do sucesso de um evento
+     
+**RODADA**
+     
+(A Mudança de Probabilidade só poderá ser utilizada 1 vez)
+
+O usuário pode escolher qual evento será utilizado, tendo seu início quando o usuário consegue 2 personagens iguais. Para conseguir um Jackpot é preciso que caia um número dentro da probabilidade das cores, no entanto, caso não caia dentre os números da probabilidade roletada, o usuário pode recorrer à um aumento de chance. Este aumento de chance será determinado pela segunda roletagem de cor para que se aumente a probabilidade de cair um número que dê sucesso ao evento, e assim forçar um Jackpot. **Ressalta-se que cada evento possui uma quantidade de aumentos de chance de acordo com a quantidade de estrelas de seu grau de expectativa.
+
+-> FUNCIONAMENTO:
+
+> **Cor das Técnicas** **(Rolete 1d3 para descobrir a cor)**
+> Verde ━━ 1
+> Vermelho ━━ 2
+> Dourado ━━ 3
+> Arco-Íris ━━ 4º Tentativa
+
+> **Probabilidade de cada Cor**
+> Verde ━━ Probabilidade de 20% (O evento será bem sucedido caso caia entre os números **0-47/239**)
+> Vermelho ━━ Probabilidade de 40% (O evento será bem sucedido caso caia entre os números **0-95/239**)
+> Dourado ━━ Probabilidade de 70% (O evento será bem sucedido caso caia entre os números **0-167/239**)
+> Arco-Íris ━━ Probabilidade de 100%
+
+> **Eventos** **(Rolete 1d4 para definir o evento)**
+>               Cartão de Transporte `0 aumentos de chance`
+>               Competição do Assento de Passageiro `1 aumentos de chance` **(Rolete 2d239 para este evento)**
+>               Aguentar o Aperto para o Banheiro no Trem Expresso `1 aumentos de chance` **(Rolete 2d239 para este evento)**
+>               Último Trem de Sexta à Noite `2 aumentos de chance` **(Rolete 3d239 para este evento)**
+
+> ***Consiga um Jackpot com o Evento Sorteado!***
+
+> **Aumento de Chance** **(Rolete 1d10 para forçar um Jackpot ao tirar um número Par)**
+>      Uma imagem especial da Heroína Asagiri Yume aparece!
+>      A veterana Amanogawa aparece para ajudar!
+>      Se não tem relação com trem, é possível conseguir um Jackpot!
